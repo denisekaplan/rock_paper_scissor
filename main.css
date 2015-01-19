@@ -1,0 +1,21 @@
+html body {
+	background-color: blue;
+}
+.rps img {
+	max-width: 273px;
+	max-height: 154px;
+	border: 16px solid;
+	margin: 84px;
+}
+
+button {
+	height: 100px;
+	width: 300px;
+	border: black 5px double;	
+	border-radius: 50%;
+	font-size: 41px;
+	font-family: fantasy;
+	margin-left: 440px;
+
+}
+
